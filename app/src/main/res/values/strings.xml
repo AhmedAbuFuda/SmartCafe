@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smart Café</string>
+    <string-array name="table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+    <string name="pepsi">Pepsi</string>
+    <string name="tea">Tea</string>
+    <string name="mirinda">Mirinda</string>
+</resources>

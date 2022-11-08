@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003563604026",
+    "project_id": "smartcoffee-e221a",
+    "storage_bucket": "smartcoffee-e221a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003563604026:android:acf1c22fb957ed44717d03",
+        "android_client_info": {
+          "package_name": "com.ahmed.smartcoffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003563604026-tlsj687047kpe5nlm4ff6pn0vihtrrdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq4BSIxgGN__CBQbsPpQhmGfV_lTfNoTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003563604026-tlsj687047kpe5nlm4ff6pn0vihtrrdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
